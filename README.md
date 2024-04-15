@@ -4,10 +4,10 @@ Este proyecto es un contador de clics desarrollado como parte de un tutorial par
 
 ## Tecnologías Utilizadas
 
-- React
-- JavaScript
-- HTML
-- CSS
+- <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">: Biblioteca de JavaScript para construir interfaces de usuario.
+- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">: Lenguaje de programación.
+- <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">: Lenguaje de marcado para la creación de páginas web.
+- <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">: Lenguaje de estilos para la presentación de páginas web.
 
 ## Instrucciones de Uso
 
